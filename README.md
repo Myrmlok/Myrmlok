@@ -1,5 +1,8 @@
 ### Hi there 👋
-![Java](https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white)
+##About me
+#My Languages
+
+!([https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black))
 <!--
 **Myrmlok/Myrmlok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
